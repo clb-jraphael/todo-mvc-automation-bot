@@ -1,8 +1,15 @@
 # 📝 TodoMVC Automation Bot (JavaScript)
 
-This project is an automation experiment for the [TodoMVC ES6 App](https://todomvc.com/examples/javascript-es6/dist/).  
-It simulates user interactions (creating, toggling, editing, and clearing todos) using plain JavaScript.
+This project is an automation experiment for the [TodoMVC ES6 App](https://todomvc.com/examples/javascript-es6/dist/)).  
+It was created **to apply QA testing practices** by simulating user actions.  
 
+---
+
+## 🎥 Demo
+![Demo GIF Placeholder](./demo.gif)  
+_Add a GIF here showing the bot running on the TodoMVC app._
+
+---
 ## 🚀 Features
 - Create todos automatically
 - Toggle individual todos or all todos
