@@ -6,8 +6,8 @@ It was created **to apply QA testing practices** by simulating user actions.
 ---
 
 ## 🎥 Demo
-![Demo GIF Placeholder](./demo.gif)  
-_Add a GIF here showing the bot running on the TodoMVC app._
+![Demo GIF Placeholder](./assets/todo-mvc-demo.gif)  
+
 
 ---
 ## 🚀 Features
